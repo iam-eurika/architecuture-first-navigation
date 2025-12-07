@@ -74,14 +74,6 @@ For web:
 flutter run -d chrome
 ```
 
-## Dependencies
-
-- `go_router: ^13.2.0` - Declarative routing (Navigation 2.0 wrapper) 
-- `flutter_bloc: ^9.1.0` - State management using BLoC pattern
-- `bloc: ^9.1.0` - Core BLoC library
-
-
-
 ### Navigating to a Route 
 
 ```dart
